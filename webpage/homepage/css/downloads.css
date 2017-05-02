@@ -1,0 +1,27 @@
+#content p {
+clear:both;
+}
+
+#content div {
+float:left;
+width:50%;
+}
+
+#content div a {
+text-decoration:none;
+font-weight:bold;
+color:#8a0e0e;
+border:none;
+}
+
+#content div a:hover {
+text-decoration:none;
+color:gray;
+}
+
+#content div img {
+float:left;
+padding-bottom:30px;
+padding-left:20px;
+padding-right:20px;
+}

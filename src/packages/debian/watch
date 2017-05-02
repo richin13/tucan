@@ -1,0 +1,5 @@
+# watch control file for uscan
+version=3
+# Full-site-with-pattern  [Version  [Action]]
+     http://code.google.com/p/tucan/downloads/detail?name=\
+     tucan-(.*)\.tar\.gz debian   uupdate

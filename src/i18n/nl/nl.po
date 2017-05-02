@@ -1,0 +1,180 @@
+# Tucan Manager.
+# Copyright (C) 2008-2010 The Tucan Project.
+# c455, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.3\n"
+"POT-Creation-Date: 2009-01-10 04:03+CET\n"
+"PO-Revision-Date: 2009-01-10 04:32+CET\n"
+"Last-Translator: c455\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: ./advanced_packages.py:37
+msgid "Advanced Packages"
+msgstr "Geavanceerde pakketten"
+
+#: ./advanced_packages.py:96
+msgid "Choose new path for selected Package."
+msgstr "Kies een nieuwe locatie voor het geselecteerde Pakket."
+
+#: ./file_chooser.py:33
+msgid "Select a Folder"
+msgstr "Selecteer een map"
+
+#: ./file_chooser.py:40
+msgid "Show hidden files."
+msgstr "Laat verborgen bestanden zien."
+
+#: ./gui.py:84
+msgid "Load Session"
+msgstr "Laad sessie"
+
+#: ./gui.py:85
+msgid "Save Session"
+msgstr "Sessie opslaan"
+
+#: ./gui.py:90
+msgid "Show Uploads"
+msgstr "Laat uploads zien"
+
+#: ./gui.py:93
+msgid "File"
+msgstr "Bestand"
+
+#: ./gui.py:94
+msgid "View"
+msgstr "Beeld"
+
+#: ./gui.py:95
+msgid "Help"
+msgstr "Help"
+
+#: ./gui.py:99
+msgid "Add Downloads"
+msgstr "Voeg downloads toe"
+
+#: ./gui.py:100
+msgid "Add Uploads"
+msgstr "Voeg uploads toe"
+
+#: ./gui.py:101
+msgid "Clear Complete"
+msgstr "Alles opruimen"
+
+#: ./gui.py:102
+msgid "Move Up"
+msgstr "Naar boven bewegen"
+
+#: ./gui.py:103
+msgid "Move Down"
+msgstr "Naar beneden bewegen"
+
+#: ./gui.py:104
+msgid "Start Selected"
+msgstr "Start geselecteerd"
+
+#: ./gui.py:105
+msgid "Stop Selected"
+msgstr "Stop geselecteerd"
+
+#: ./input_links.py:54
+msgid "Input Links"
+msgstr "Links invoeren"
+
+#: ./input_links.py:69
+msgid "Paste links here:"
+msgstr "Plak hier de links:"
+
+#: ./input_links.py:88
+msgid "Check Links"
+msgstr "Controleer links"
+
+#: ./input_links.py:131
+msgid "Show advanced Package configuration."
+msgstr "Laat geavanceerde configuratie zien."
+
+#: ./input_links.py:207
+msgid "Checking links, please wait."
+msgstr "Links controleren, even geduld."
+
+#: ./input_links.py:260
+msgid "Check Canceled!"
+msgstr "Selecteer geannuleerden!"
+
+#: ./preferences.py:54
+msgid "General Configuration"
+msgstr "Algemene configuratie"
+
+#: ./preferences.py:55
+msgid "Service Configuration"
+msgstr "Site's configuratie"
+
+#: ./preferences.py:56
+msgid "Advanced Configuration"
+msgstr "Geavanceerde configuratie"
+
+#: ./preferences.py:120
+msgid "Choose language: "
+msgstr "Kies taal: "
+
+#: ./preferences.py:138
+msgid "Max simultaneous downloads: "
+msgstr "Maximaal gelijktijdige downloads: "
+
+#: ./preferences.py:173
+msgid "Downloads Folder: "
+msgstr "Downloadmap: "
+
+#: ./preferences.py:260
+msgid "Restart Tucan to apply service changes."
+msgstr "Herstart Tucan om de wijzigingen door te voeren."
+
+#: ./preferences.py:279
+msgid "The choosed directory isn't a service, or it's not configured."
+msgstr "De gekozen map is geen service, of het is niet geconfigureerd."
+
+#: ./preferences.py:307
+msgid "Before using this service, you must accept it's terms of service at "
+msgstr "Voor u deze site kunt gebruiken, moet u de voorwaarden accepteren "
+
+#: ./preferences.py:308
+msgid "Terms of service"
+msgstr "Gebruikersvoorwaarden"
+
+#: ./preferences.py:331
+msgid "Close to tray."
+msgstr "Sluiten naar systemtray."
+
+#: ./preferences.py:335
+msgid "Save session on close."
+msgstr "Sla sessie op en sluiten."
+
+#: ./preferences.py:339
+msgid "Default advanced packages."
+msgstr "Standaard geavanceerde paketten."
+
+#: ./preferences.py:343
+msgid "Show uploads."
+msgstr "Laat uploads zien."
+
+#: ./service_preferences.py:47
+msgid "Author"
+msgstr "Auteur"
+
+#: ./service_preferences.py:55
+msgid "Version"
+msgstr "Versie"
+
+#: ./service_preferences.py:64
+msgid "Slots"
+msgstr "Plaatsen"
+
+#: ./service_preferences.py:71
+msgid "Captcha"
+msgstr "Captcha"

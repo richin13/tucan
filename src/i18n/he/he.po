@@ -1,0 +1,183 @@
+# Tucan Manager.
+# Copyright (C) 2008-2011 The Tucan Project.
+# Amiad Bareli <amiadb(at)gmail(dot)com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2009-01-11 22:54+CET\n"
+"PO-Revision-Date: 2009-11-25 15:36+0200\n"
+"Last-Translator: Amiad Bareli <amiadb(at)gmail(dot)com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Poedit-Language: Hebrew\n"
+"X-Poedit-Country: ISRAEL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ./advanced_packages.py:37
+msgid "Advanced Packages"
+msgstr "חבילות מתקדמות"
+
+#: ./advanced_packages.py:96
+msgid "Choose new path for selected Package."
+msgstr "בחר נתיב חדש עבור החבילה הנבחרת."
+
+#: ./file_chooser.py:33
+msgid "Select a Folder"
+msgstr "בחר תיקייה"
+
+#: ./file_chooser.py:40
+msgid "Show hidden files."
+msgstr "הצג קבצים מוסתרים."
+
+#: ./gui.py:84
+msgid "Load Session"
+msgstr "טען אוסף"
+
+#: ./gui.py:85
+msgid "Save Session"
+msgstr "שמור אוסף"
+
+#: ./gui.py:90
+msgid "Show Uploads"
+msgstr "הצג העלאות"
+
+#: ./gui.py:93
+msgid "File"
+msgstr "קובץ"
+
+#: ./gui.py:94
+msgid "View"
+msgstr "תצוגה"
+
+#: ./gui.py:95
+msgid "Help"
+msgstr "עזרה"
+
+#: ./gui.py:99
+msgid "Add Downloads"
+msgstr "הוסף הורדות"
+
+#: ./gui.py:100
+msgid "Add Uploads"
+msgstr "הוסף העלאות"
+
+#: ./gui.py:101
+msgid "Clear Complete"
+msgstr "נקה הורדות שהושלמו"
+
+#: ./gui.py:102
+msgid "Move Up"
+msgstr "הזז למעלה"
+
+#: ./gui.py:103
+msgid "Move Down"
+msgstr "הזז למטה"
+
+#: ./gui.py:104
+msgid "Start Selected"
+msgstr "התחל נבחרים"
+
+#: ./gui.py:105
+msgid "Stop Selected"
+msgstr "עצור נבחרים"
+
+#: ./input_links.py:54
+msgid "Input Links"
+msgstr "קליטת קישורים"
+
+#: ./input_links.py:69
+msgid "Paste links here:"
+msgstr "הדבק את הקישורים כאן:"
+
+#: ./input_links.py:88
+msgid "Check Links"
+msgstr "בדוק קישורים"
+
+#: ./input_links.py:131
+msgid "Show advanced Package configuration."
+msgstr "הצג תצורת חבילה מתקדמת."
+
+#: ./input_links.py:207
+msgid "Checking links, please wait."
+msgstr "בודק קישורים, אנא המתן."
+
+#: ./input_links.py:260
+msgid "Check Canceled!"
+msgstr "הבדיקה בוטלה!"
+
+#: ./preferences.py:54
+msgid "General Configuration"
+msgstr "תצורה ראשית"
+
+#: ./preferences.py:55
+msgid "Service Configuration"
+msgstr "תצורת שירותים"
+
+#: ./preferences.py:56
+msgid "Advanced Configuration"
+msgstr "תצורה מתקדמת"
+
+#: ./preferences.py:120
+msgid "Choose language: "
+msgstr "בחר שפה: "
+
+#: ./preferences.py:138
+msgid "Max simultaneous downloads: "
+msgstr "מקסימום הורדות בו–זמנית: "
+
+#: ./preferences.py:173
+msgid "Downloads Folder: "
+msgstr "תיקיית הורדות: "
+
+#: ./preferences.py:260
+msgid "Restart Tucan to apply service changes."
+msgstr "אתחל את Tucan כדי להחיל את השינויים."
+
+#: ./preferences.py:279
+msgid "The choosed directory isn't a service, or it's not configured."
+msgstr "התיקייה הנבחרת לא נתמכת או לא הוגדרה."
+
+#: ./preferences.py:307
+msgid "Before using this service, you must accept it's terms of service at "
+msgstr "לפני השימוש בשירות, אתה חייב לאשר את תנאי השירות בכתובת "
+
+#: ./preferences.py:308
+msgid "Terms of service"
+msgstr "תנאי השירות"
+
+#: ./preferences.py:331
+msgid "Close to tray."
+msgstr "מזער למגש המערכת."
+
+#: ./preferences.py:335
+msgid "Save session on close."
+msgstr "שמור אוסף בסגירה."
+
+#: ./preferences.py:339
+msgid "Default advanced packages."
+msgstr "ברירת מחדל של חבילות מתקדמות."
+
+#: ./preferences.py:343
+msgid "Show uploads."
+msgstr "הצג העלאות."
+
+#: ./service_preferences.py:47
+msgid "Author"
+msgstr "מחבר"
+
+#: ./service_preferences.py:55
+msgid "Version"
+msgstr "גירסה"
+
+#: ./service_preferences.py:64
+msgid "Slots"
+msgstr "משבצות"
+
+#: ./service_preferences.py:71
+msgid "Captcha"
+msgstr "קפאצ'ה"
+

@@ -1,0 +1,19 @@
+#content img {
+float:left;
+padding-right:10px;
+}
+
+#content div {
+float:left;
+width:30%;
+}
+
+#content div img {
+float:left;
+padding:20px;
+margin-bottom:5px;
+}
+
+#content div a {
+color:white;
+}

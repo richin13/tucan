@@ -1,0 +1,183 @@
+# Tucan Manager.
+# Copyright (C) 2008-2011 The Tucan Project.
+# Thanh Tài (thanhtai2009) <vnvippro(at)live(dot)com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tucan Downloader\n"
+"POT-Creation-Date: 2009-01-11 22:54+CET\n"
+"PO-Revision-Date: 2011-02-26 16:54+0700\n"
+"Last-Translator: Thanh Tài (thanhtai2009) <vnvippro(at)live(dot)com>\n"
+"Language-Team: thanhtai2009 <vnvippro(at)live(dot)com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Poedit-Language: Vietnamese\n"
+"X-Poedit-Country: VIET NAM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: advanced_packages.py:37
+msgid "Advanced Packages"
+msgstr "Gói tải xuống nâng cao"
+
+#: advanced_packages.py:96
+msgid "Choose new path for selected Package."
+msgstr "Chọn đường dẫn cho gói tải xuống đã chọn."
+
+#: file_chooser.py:33
+msgid "Select a Folder"
+msgstr "Chọn thư mục"
+
+#: file_chooser.py:40
+msgid "Show hidden files."
+msgstr "Hiện tập tin ẩn."
+
+#: gui.py:84
+msgid "Load Session"
+msgstr "Tải phiên làm việc"
+
+#: gui.py:85
+msgid "Save Session"
+msgstr "Lưu phiên làm việc"
+
+#: gui.py:90
+msgid "Show Uploads"
+msgstr "Hiện tải lên"
+
+#: gui.py:93
+msgid "File"
+msgstr "Tập tin"
+
+#: gui.py:94
+msgid "View"
+msgstr "Hiển thị"
+
+#: gui.py:95
+msgid "Help"
+msgstr "Trợ giúp"
+
+#: gui.py:99
+msgid "Add Downloads"
+msgstr "Thêm tải xuống"
+
+#: gui.py:100
+msgid "Add Uploads"
+msgstr "Thêm tải xuống"
+
+#: gui.py:101
+msgid "Clear Complete"
+msgstr "Xóa tác vụ đã hoàn thành"
+
+#: gui.py:102
+msgid "Move Up"
+msgstr "Chuyển lên"
+
+#: gui.py:103
+msgid "Move Down"
+msgstr "Chuyển xuống"
+
+#: gui.py:104
+msgid "Start Selected"
+msgstr "Bắt đầu tác vụ"
+
+#: gui.py:105
+msgid "Stop Selected"
+msgstr "Dừng tác vụ"
+
+#: input_links.py:54
+msgid "Input Links"
+msgstr "Nhập liên kết"
+
+#: input_links.py:69
+msgid "Paste links here:"
+msgstr "Dán liên kết tại đây:"
+
+#: input_links.py:88
+msgid "Check Links"
+msgstr "Kiểm tra"
+
+#: input_links.py:131
+msgid "Show advanced Package configuration."
+msgstr "Hiện cài đặt gói tải xuống nâng cao."
+
+#: input_links.py:207
+msgid "Checking links, please wait."
+msgstr "Đang kiểm tra, vui lòng chờ."
+
+#: input_links.py:260
+msgid "Check Canceled!"
+msgstr "Đã hủy Kiểm tra!"
+
+#: preferences.py:54
+msgid "General Configuration"
+msgstr "Cấu hình cơ bản"
+
+#: preferences.py:55
+msgid "Service Configuration"
+msgstr "Cấu hình dịch vụ"
+
+#: preferences.py:56
+msgid "Advanced Configuration"
+msgstr "Cấu hình nâng cao"
+
+#: preferences.py:120
+msgid "Choose language: "
+msgstr "Chọn ngôn ngữ: "
+
+#: preferences.py:138
+msgid "Max simultaneous downloads: "
+msgstr "Số tác vụ tải xuống đồng thời tối đa: "
+
+#: preferences.py:173
+msgid "Downloads Folder: "
+msgstr "Thư mục tải xuống: "
+
+#: preferences.py:260
+msgid "Restart Tucan to apply service changes."
+msgstr "Khởi động lại Tucan để áp dụng thay đổi."
+
+#: preferences.py:279
+msgid "The choosed directory isn't a service, or it's not configured."
+msgstr "Đối tượng đã chọn không phải là một dịch vụ, hoặc chưa được cài đặt."
+
+#: preferences.py:307
+msgid "Before using this service, you must accept it's terms of service at "
+msgstr "Trước khi sử dụng dịch vụ này, bạn phải chấp nhận điều khoản sử dụng tại "
+
+#: preferences.py:308
+msgid "Terms of service"
+msgstr "Điều khoản dịch vụ"
+
+#: preferences.py:331
+msgid "Close to tray."
+msgstr "Thu xuống thanh hệ thống khi đóng."
+
+#: preferences.py:335
+msgid "Save session on close."
+msgstr "Lưu phiên làm việc khi đóng."
+
+#: preferences.py:339
+msgid "Default advanced packages."
+msgstr "Gói tải xuống nâng cao mặc định."
+
+#: preferences.py:343
+msgid "Show uploads."
+msgstr "Hiện tải lên."
+
+#: service_preferences.py:47
+msgid "Author"
+msgstr "Tác giả"
+
+#: service_preferences.py:55
+msgid "Version"
+msgstr "Phiên bản"
+
+#: service_preferences.py:64
+msgid "Slots"
+msgstr "Vị trí"
+
+#: service_preferences.py:71
+msgid "Captcha"
+msgstr "Captcha"
+

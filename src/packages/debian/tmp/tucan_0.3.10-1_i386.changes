@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Mon, 21 Feb 2011 20:07:16 +0200
+Source: tucan
+Binary: tucan
+Architecture: source all
+Version: 0.3.10-1
+Distribution: unstable
+Urgency: low
+Maintainer: Fran Lupion (Crak) <crak@tucaneando.com>
+Changed-By: Fran Lupion (Crak) <crak@tucaneando.com>
+Description: 
+ tucan      - Download and upload manager for 1-Click Hosters
+Changes: 
+ tucan (0.3.10-1) unstable; urgency=low
+ .
+   * New upstream release
+   * debian-policy updated to 3.9.1
+Checksums-Sha1: 
+ 2cc9640a842a005ba579c6c02a4e4d33214d3cbc 741 tucan_0.3.10-1.dsc
+ 8ad58a7380b436f867cbb42f7187db5358ed0f38 399055 tucan_0.3.10-1.tar.gz
+ 5e9faf6b36101dabc885e3fa0ba25b554b4c86c9 286680 tucan_0.3.10-1_all.deb
+Checksums-Sha256: 
+ f44d2d040b38fc901f41ebe073963fbc2c419a3708204e081b79f73271b7e724 741 tucan_0.3.10-1.dsc
+ 01ec077ecef05639721304aba59fae3e68f9133b99f69ae95c1d658efb666ed3 399055 tucan_0.3.10-1.tar.gz
+ 0e9bd15039090a32450a81607d0db26c9faebde4bfcaa6d73dbc4c20b7ff25e8 286680 tucan_0.3.10-1_all.deb
+Files: 
+ d47f7963bd3795044b6f476cc535fbf9 741 net optional tucan_0.3.10-1.dsc
+ adf889ce7e555e436ad1b986189bd8e4 399055 net optional tucan_0.3.10-1.tar.gz
+ 41dd95a65b313b4fc8bb1e86704c9e17 286680 net optional tucan_0.3.10-1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iEYEARECAAYFAk1iungACgkQ7EXKTG+aztazKwCdGOLvp5bZD41BUOO6KEr+oFUX
+rrgAn2zz98m2adMwtV8VwUx+mxTOy+VJ
+=R3LW
+-----END PGP SIGNATURE-----

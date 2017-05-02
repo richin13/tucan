@@ -1,0 +1,17 @@
+	Tucan Manager 0.4 beta
+---------------------------------------
+-- CORE
+- Core API.
+- Upload System. 
+- Full UNICODE support.
+- New concurrent checklinks.
+- Use only bytes as internal unit.
+- More Unit tests. QA needed.
+
+-- GUI
+- Cell data functions. TreeModel only contains IDs.
+- New TreeViews.
+
+-- DOC
+- Fill docstrings.
+- Translate documentation.
